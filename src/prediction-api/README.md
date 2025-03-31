@@ -4,5 +4,7 @@ Goal: Build REST API with Rust that serves ML model predictions
 
 ### TODOs
 
-- [] Build hello world api with Axum (good docs)
-- [] Add predictions endpoint
+- [x] Build hello world api with Axum (good docs)
+- [x] Add predictions endpoint
+- [x] Add get with param
+- [x] do cargo build --release to get a binary (exe) that you can run the api using ./target/release/prediction-api
